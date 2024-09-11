@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year student from College of [Humanities and Social Sciences]() in [CUHK(Shenzhen)](). My research interests are mainly in Computers in Human behaviour, Applied Statistics and Public Health.
-For more information, please find in my [CV]().
-Working on to not being displaced by robots :)
+I am a first year student from College of [Humanities and Social Sciences](https://hsspg.cuhk.edu.cn/) in [CUHK(Shenzhen)](https://www.cuhk.edu.cn/zh-hans). My research interests are mainly in Computers in Human behaviour, Applied Statistics and Public Health.
+For more information, please find in my [CV]().<br>
+Working on not being displaced by robots :)
 
 
 
