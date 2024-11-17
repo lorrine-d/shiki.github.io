@@ -4,6 +4,10 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
+
+{% raw %}
+`{{` **Double Curly Braces** indicate that data will be replaced with data binding
+{% endraw %}
 name: Deploy Jekyll site to Pages
 
 on:
