@@ -16,7 +16,7 @@ Internship experience
 ======
 * Fall 2023: Datacom engineer intern
   * Huawei Pte Ltd. (Singapore)
-  * Duties includes: Network & datacom support
+  * Duties includes: Network & Datacom support
 
 * Fall 2021: Data analyst intern
   * Bestpay co. (Shanghai)
@@ -26,12 +26,7 @@ Internship experience
   
 Project
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* *Not At All*
 
 <!--Publications
 ======

@@ -16,4 +16,4 @@ Working on not being displaced by robots :)
 More to add
 ------
 * Dream of being a **Chef**
-* Always be grateful for keeping me away from **Hunger**
+* wo bu hui da dai ma 
