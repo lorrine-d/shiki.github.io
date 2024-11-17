@@ -49,7 +49,6 @@ author:
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-<<<<<<< HEAD
   # bluesky          : "bsky.app" # Replace this with you Bluesky username
   # facebook         : # Username
   # flickr           : # Username
@@ -74,32 +73,6 @@ author:
   # xing             : # Username
   # youtube          : # Username
   # zhihu            : # URL
-=======
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
->>>>>>> e9f9c45b3e4e21ca61ae88b8e4e707abe082bdb9
 
 # Publication Category - The following the list of publication categories and their headings
 # publication_category:
