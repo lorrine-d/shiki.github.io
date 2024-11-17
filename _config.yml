@@ -12,11 +12,7 @@ title                    : "🌙"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-<<<<<<< HEAD
 url                      : https://lorrine-d.github.io/shiki.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-=======
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
->>>>>>> e9f9c45b3e4e21ca61ae88b8e4e707abe082bdb9
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lorrine-d/shiki.github.io"
 
