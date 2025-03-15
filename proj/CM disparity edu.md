@@ -2,8 +2,6 @@
 title: "CM disparity"
 collection: project
 type: "Research Project"
-permalink: /teaching/2014-spring-teaching-1
-date: 2024-11
 location: "CUHK SZ"
 ---
 
