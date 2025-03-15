@@ -24,10 +24,6 @@ Internship experience
 
 
   
-Project
-======
-* *Not At All*
-
 <!--Publications
 ======
   <ul>{% for post in site.publications reversed %}
