@@ -1,5 +1,5 @@
 ---
-title: "CM disparity"
+title: "CM disparity (on-going)"
 collection: project
 type: "Research Project"
 location: "CUHK SZ"
